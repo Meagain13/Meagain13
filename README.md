@@ -25,15 +25,15 @@ Currently, I´m learning **HTML5**, **CSS3**, **JS** and **Python**.
 
 Being an active and curious person, I´m into some great projects:
 
-- I´m a Spanish Language Coordinator and Mentor at TED Conferences (you can check out my profile [here](https://www.ted.com/profiles/5067502))
-- And I´m also colaborating with iFix, to help people repair their stuff in a clear, simple and fun way (see my profile [here](https://es.ifixit.com/User/4031587/Penny))
+- I´m a Spanish Language Coordinator and Mentor at TED Conferences (you can check out my profile [here](https://www.ted.com/profiles/5067502)
+- And I´m also colaborating with iFix, to help people repair their stuff in a clear, simple and fun way (see my profile [here](https://es.ifixit.com/User/4031587/Penny)
 - As well as working with LibreOffice, translating, proofreading and creating their documentation.
 
 ## Contact me 
 
 Have something in common with me?
 
-Then text me [here](https://es.linkedin.com/in/penny-mart%C3%ADnez-d%C3%ADaz-52a40421a)) and let´s talk!
+Then text me [here](https://es.linkedin.com/in/penny-mart%C3%ADnez-d%C3%ADaz-52a40421a) and let´s talk!
 
 <!---
 Meagain13/Meagain13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
