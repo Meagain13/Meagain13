@@ -2,14 +2,13 @@
 
 Hi there! 😄👋  
 
-My name is Penny and I´m a curious, creative and passionate human being, with a wide expertise in **Audiovisual Translation EN-SP**  
-and also training in **Technical Writing**.
+My name is Penny and I´m a curious, creative and passionate human being, with a wide expertise in **Audiovisual Translation EN-SP** and also training in **Technical Writing**.
 
 If you want to learn more about me, just ask! 😉
 
 ## I´m interested in 💻 
 
-My fields of interest right now are:
+My fields of interest (apart from translation) right now are:
 
 - **Programming**
 - **NoCode tools**
@@ -25,9 +24,9 @@ Currently, I´m learning **HTML5**, **CSS3**, **JS** and **Python**.
 
 Being an active and curious person, I´m into some great projects:
 
-- I´m a Spanish Language Coordinator and Mentor at TED Conferences (you can check out my profile [here](https://www.ted.com/profiles/5067502)
-- And I´m also colaborating with iFix, to help people repair their stuff in a clear, simple and fun way (see my profile [here](https://es.ifixit.com/User/4031587/Penny)
-- As well as working with LibreOffice, translating, proofreading and creating their documentation.
+- I´m a Spanish Language Coordinator and Mentor at TED Conferences (you can check out my profile [here](https://www.ted.com/profiles/5067502))
+- And I´m also colaborating with iFix, to help people repair their stuff in a clear, simple and fun way (see my profile [here](https://es.ifixit.com/User/4031587/Penny))
+- As well as being the Coordinator for the Spanish Documentation Team at LibreOffice, translating, proofreading and creating their documentation.
 
 ## Contact me 
 
