@@ -1,6 +1,6 @@
-## About me
+## About me 🙋‍♀️
 
-Hi there! 😄👋  
+Hi there!  
 
 My name is Penny and I´m a curious, creative and passionate human being, with a wide expertise in **Audiovisual Translation EN-SP** and also training in **Technical Writing**.
 
